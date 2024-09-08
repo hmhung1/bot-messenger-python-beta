@@ -18,6 +18,8 @@ git clone https://github.com/hmhung1/bot-messenger-python-beta.git
 cd repository
 ```
 ### 2. Cài đặt các thư viện cần thiết
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txtbash
+```
 
 
