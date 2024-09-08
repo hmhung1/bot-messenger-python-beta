@@ -21,5 +21,4 @@ cd repository
 ```bash
 pip install -r requirements.txt
 ```
-
-
+### Đến đây tự nhiên lười viết thêm=))
