@@ -17,4 +17,7 @@ Author: [Hà Mạnh Hùng](https://www.facebook.com/profile.php?id=6156446769663
 git clone https://github.com/hmhung1/bot-messenger-python-beta.git
 cd repository
 ```
+### 2. Cài đặt các thư viện cần thiết
+pip install -r requirements.txt
+
 
