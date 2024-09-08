@@ -1,7 +1,5 @@
 {
     "admins": ["615644676966322"],
-    "prefix": "/",
-    "botname": "MyBot",
-    "version": "1.0.0"
+    "prefix": "/"
   }
   
